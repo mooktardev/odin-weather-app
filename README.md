@@ -6,7 +6,7 @@ Weather is an assignement from The Odin Project to work with API and isplay the 
 
 
 ## Links
-[Live preview](https://odin-weatherapp-mk.vercel.app/)
+[Live preview](https://odin-weather-app-mk.vercel.app/)
 
 
 ## Contribution
