@@ -1,5 +1,5 @@
 const apiKey = "76507ac034b848419e382107232812";
-const apiUrl = `http://api.weatherapi.com/v1/current.json?key=${apiKey}&q=`;
+const apiUrl = `https://api.weatherapi.com/v1/current.json?key=${apiKey}&q=`;
 
 // Selector
 const selectEl = (el) => document.querySelector(el);
