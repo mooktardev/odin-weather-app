@@ -1,12 +1,12 @@
-# Project Name
-Project description
+# Weather App
+Weather is an assignement from The Odin Project to work with API and isplay the data on the DOM elements.
 
 ## Screenshot
 ![Screenshot](./screenshot.png)
 
 
 ## Links
-[Live preview](https://link-to-project.vercel.app/)
+[Live preview](https://odin-weatherapp-mk.vercel.app/)
 
 
 ## Contribution
